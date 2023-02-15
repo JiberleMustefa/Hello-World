@@ -3,6 +3,6 @@
 ### **Project Title** 
 ### *Description* 
 ###  *How to Run Program* 
-### - <sub>*Files Used*</sub>
-### - <sub>*Additional Documentation*</sub>
-### - <sub>*Versioning*</sub>
+### 1. <sub>*Files Used*</sub>
+### 2. <sub>*Additional Documentation*</sub>
+### 3. <sub>*Versioning*</sub>
